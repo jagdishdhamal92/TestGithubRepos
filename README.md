@@ -1,3 +1,3 @@
 # TestGithubRepos
 Github learning 
-Developer :- Jagdish Dhamal
+Developer :- Jagdish Dhamal (.net Core)
